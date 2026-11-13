@@ -10,7 +10,7 @@ I'm a Cybersecurity student and QA tester focused on improving software quality 
 
 💻 What I'm working towards
 
-Building strong QA engineering skills while continuing to grow my cybersecurity knowledge, with the long-term goal of becoming a Security Engineer.
+Building strong QA engineering skills while continuing to grow my cybersecurity knowledge, with the long-term goal of becoming a Security Auditor.
 
 📫 Let's connect
 
